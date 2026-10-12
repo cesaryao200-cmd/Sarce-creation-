@@ -1,0 +1,6 @@
+{
+  "name": "Sarce Creation - Logos Professionnels Côte d'Ivoire",
+  "description": "Création de logo professionnel accessible dès 5 000 FCFA pour petites entreprises, commerçants, restaurants et salons en Côte d'Ivoire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
